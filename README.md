@@ -17,6 +17,11 @@ _attachments
 ```
 
 ## Getting started
+
+Detailed installation and usage instructions in Spanish:
+
+https://medium.com/@enanosca/enumeraci%C3%B3n-de-aws-s3-buckets-con-sandcastle-d8154f45a540
+
 Here's how to get started:
 
 1. Clone this repo
